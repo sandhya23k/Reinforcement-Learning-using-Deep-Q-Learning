@@ -1,0 +1,108 @@
+Episode 1
+Total Episode Reward: 20.0
+Episode 2
+Total Episode Reward: 20.0
+Episode 3
+Total Episode Reward: 20.0
+Episode 4
+Total Episode Reward: 20.0
+Episode 5
+Total Episode Reward: 20.0
+TD Errors for each update
+TD error after 1 update: 0.9865238917991519
+ TD error after 2 update: 0.9945124560035765
+ TD error after 3 update: 0.980566443875432
+ TD error after 4 update: 0.9714278113096952
+ TD error after 5 update: 0.9579458497464657
+ TD error after 6 update: 0.9650676809251308
+ TD error after 7 update: 0.9573064707219601
+ TD error after 8 update: 0.9661898836493492
+ TD error after 9 update: 1.0008607469499111
+ TD error after 10 update: 1.0114564197137952
+ TD error after 11 update: 0.9448562972247601
+ TD error after 12 update: 0.9483223333954811
+ TD error after 13 update: 0.9357139021158218
+ TD error after 14 update: 0.977987851947546
+ TD error after 15 update: 0.9640416353940964
+ TD error after 16 update: 0.9363642036914825
+ TD error after 17 update: 1.0006580685731024
+ TD error after 18 update: 0.9292973130941391
+ TD error after 19 update: 0.9738512076437473
+ TD error after 20 update: 0.9831441026180983
+ TD error after 21 update: 0.9103447645902634
+ TD error after 22 update: 0.9645843058824539
+ TD error after 23 update: 0.9450063183903694
+ TD error after 24 update: 0.9253008961677551
+ TD error after 25 update: 0.8947344124317169
+ TD error after 26 update: 0.9121126607060432
+ TD error after 27 update: 0.9002617374062538
+ TD error after 28 update: 0.8749842345714569
+ TD error after 29 update: 0.8854344114661217
+ TD error after 30 update: 0.9972941614687443
+ TD error after 31 update: 0.8853565603494644
+ TD error after 32 update: 0.9233859032392502
+ TD error after 33 update: 0.8981544226408005
+ TD error after 34 update: 0.8855581507086754
+ TD error after 35 update: 0.9699023179709911
+ TD error after 36 update: 0.8815180286765099
+ TD error after 37 update: 0.897714838385582
+ TD error after 38 update: 0.9555566497147083
+ TD error after 39 update: 0.8416868299245834
+ TD error after 40 update: 0.8641712814569473
+ TD error after 41 update: 0.8300128281116486
+ TD error after 42 update: 0.8494143486022949
+ TD error after 43 update: 0.8358774185180664
+ TD error after 44 update: 0.9492928124964237
+ TD error after 45 update: 0.8084302842617035
+ TD error after 46 update: 0.9849193161353469
+ TD error after 47 update: 0.9755048304796219
+ TD error after 48 update: 0.8078114539384842
+ TD error after 49 update: 0.9486975967884064
+ TD error after 50 update: 0.8142015784978867
+ TD error after 51 update: 0.8428342640399933
+ TD error after 52 update: 0.8419205248355865
+ TD error after 53 update: 0.8001371026039124
+ TD error after 54 update: 0.7904267460107803
+ TD error after 55 update: 0.7647280693054199
+ TD error after 56 update: 0.7857502102851868
+ TD error after 57 update: 0.962323110550642
+ TD error after 58 update: 0.9097401946783066
+ TD error after 59 update: 0.8146022260189056
+ TD error after 60 update: 0.7468649744987488
+ TD error after 61 update: 0.8006415963172913
+ TD error after 62 update: 0.9448279589414597
+ TD error after 63 update: 0.7507830709218979
+ TD error after 64 update: 0.7351614832878113
+ TD error after 65 update: 0.951346181333065
+ TD error after 66 update: 0.9377090558409691
+ TD error after 67 update: 0.7381556034088135
+ TD error after 68 update: 0.6958474814891815
+ TD error after 69 update: 0.6797928214073181
+ TD error after 70 update: 0.9085767865180969
+ TD error after 71 update: 0.7512783110141754
+ TD error after 72 update: 0.6737295389175415
+ TD error after 73 update: 0.7172380089759827
+ TD error after 74 update: 0.6985446214675903
+ TD error after 75 update: 0.6598222255706787
+ TD error after 76 update: 0.7228389978408813
+ TD error after 77 update: 0.6869163513183594
+ TD error after 78 update: 0.6854166686534882
+ TD error after 79 update: 0.6152433454990387
+ TD error after 80 update: 0.6226397156715393
+ TD error after 81 update: 0.6865321397781372
+ TD error after 82 update: 0.7038363814353943
+ TD error after 83 update: 0.6615833640098572
+ TD error after 84 update: 0.6748908162117004
+ TD error after 85 update: 0.9031092077493668
+ TD error after 86 update: 0.6202057301998138
+ TD error after 87 update: 0.6172448694705963
+ TD error after 88 update: 0.6275694370269775
+ TD error after 89 update: 0.9204674065113068
+ TD error after 90 update: 0.6078625619411469
+ TD error after 91 update: 0.5206824541091919
+ TD error after 92 update: 0.5437236428260803
+ TD error after 93 update: 0.6162391006946564
+ TD error after 94 update: 0.8602482974529266
+ TD error after 95 update: 0.5473068654537201
+ TD error after 96 update: 0.5142641663551331
+ 
